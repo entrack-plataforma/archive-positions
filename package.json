@@ -1,0 +1,17 @@
+{
+  "name": "archive-positions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jcardus",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.15.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
